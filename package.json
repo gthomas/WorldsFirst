@@ -1,0 +1,24 @@
+{
+  "name": "WorldsFirst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "tachyons": "^4.12.0"
+  },
+  "dependencies": {
+    "fitty": "^2.3.0",
+    "hammerjs": "^2.0.8",
+    "hammertime": "^1.0.0",
+    "marquee-infinite": "0.0.4",
+    "parcel": "^1.12.4",
+    "scrollmagic": "^2.0.7"
+  }
+}
