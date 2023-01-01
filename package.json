@@ -18,7 +18,7 @@
     "hammerjs": "^2.0.8",
     "hammertime": "^1.0.0",
     "marquee-infinite": "0.0.4",
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "scrollmagic": "^2.0.7"
   }
 }
